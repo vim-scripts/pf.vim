@@ -1,0 +1,6 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=341
+
+Syntax file for OpenBSD's packet-filter (pf) configuration file: pf.conf.
+
+Preview "screenshot" here: http://www.sentia.org/downloads/pf.conf.html
+
